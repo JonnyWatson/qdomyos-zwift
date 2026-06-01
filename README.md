@@ -1,5 +1,5 @@
 # qdomyos-zwift
-Zwift bridge for Treadmills and Bike!
+Zwift bridge for Treadmills and Bike! Let's go
 
 ## QZ is not affiliated with or endorsed by any subscription service or maker of exercise equipment.
 
